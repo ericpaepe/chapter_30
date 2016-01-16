@@ -3,7 +3,7 @@ import 'contacts.dart';
 
 
 void main (){
-  print("test");
+  print("testDB");
   //idbContacts db = new idbContacts();
 
 
